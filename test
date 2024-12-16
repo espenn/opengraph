@@ -1,5 +1,14 @@
+<!DOCTYPE html>
 <html>
+<head>
+  <title>Example Preview</title>
+  <meta property="og:title" content="Example Title">
+  <meta property="og:description" content="Example description for preview">
+  <meta property="og:image" content="https://example.com/image.jpg">
+  <meta property="og:url" content="https://example.com">
+</head>
 <body>
-This is a test.
+  Redirecting to the main page...
+  <script>window.location.href = "https://forsta.com";</script>
 </body>
 </html>
